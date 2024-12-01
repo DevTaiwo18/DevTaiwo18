@@ -30,7 +30,6 @@ Extras:
 
 🔗 Links:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemi-taiwo-5892082b0/)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@DevTaiwo)
 
 ⚡ Fun fact:
 I enjoy coding, learning new tech, and working on cool side projects.
