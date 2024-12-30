@@ -3,8 +3,10 @@ Hi there 👋
 I'm Adeyemi Taiwo, a passionate developer with a focus on building scalable web and mobile applications.
 
 ✍ I use:
-- JavaScript/TypeScript
+- JavaScript
+- TypeScript
 - React.js
+- Next.js
 - Node.js (Express)
 - HTML/CSS
 - Tailwind
