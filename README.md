@@ -1,37 +1,24 @@
-Hi there 👋  
+Hi there 👋
 
-I'm Adeyemi Taiwo, a passionate developer with a focus on building scalable web and mobile applications.
+I'm Adeyemi Taiwo, a passionate developer focused on building scalable web and mobile applications.
 
-✍ I use:
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Node.js (Express)
-- HTML/CSS
-- Tailwind
-- Bootstrap
-- SASS
-- Git
-- MongoDB
-- MySQL
+✍ Tech Stack:
 
-Extras:
-- RESTful APIs
-- Firebase
-- Redux
+Frontend: JavaScript, TypeScript, React.js, Next.js, TailwindCSS, Bootstrap, SASS, HTML/CSS
+Backend: Node.js (Express), MongoDB, MySQL
+Extras: RESTful APIs, Firebase, Redux
+🌱 Currently Learning:
 
-🌱 I’m currently learning **Solidity (Ethereum)** and **Flutter** for mobile development.
+Flutter for cross-platform mobile app development
+👯 Collaboration:
+I’m looking to collaborate on full-stack MERN projects and exciting web applications.
 
-👯 I’m looking to collaborate on blockchain and full-stack MERN projects.
+💬 Ask Me About:
 
-💬 Ask me about React, Node.js, and blockchain!
+React.js, Node.js, and modern web development
+📫 How to Reach Me:
 
-📫 How to reach me:
-- Email: adeyemitaiwo24434@gmail.com
-
-🔗 Links:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemi-taiwo-5892082b0/)
-
-⚡ Fun fact:
-I enjoy coding, learning new tech, and working on cool side projects.
+Email: adeyemitaiwo24434@gmail.com
+LinkedIn: https://www.linkedin.com/in/adeyemi-taiwo-5892082b0/
+⚡ Fun Fact:
+I enjoy coding, exploring new technologies, and working on innovative side projects.
