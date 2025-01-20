@@ -1,49 +1,63 @@
-Hi there! 👋
-I'm Adeyemi Taiwo, a passionate developer focused on building scalable web and mobile applications.
-Tech Stack
-Frontend:
+# Hi there! 👋
 
-JavaScript
-TypeScript
-React.js
-Next.js
-TailwindCSS
-Bootstrap
-SASS
-HTML/CSS
+I'm **Adeyemi Taiwo**, a passionate developer focused on building scalable web and mobile applications.
 
-Backend:
+---
 
-Node.js (Express)
-MongoDB
-MySQL
+### 🛠️ Tech Stack
 
-Extras:
+**Frontend Development**
+```javascript
+JavaScript • TypeScript • React.js • Next.js • TailwindCSS • Bootstrap • SASS • HTML/CSS
+```
 
-RESTful APIs
-Firebase
-Redux
+**Backend Development**
+```javascript
+Node.js (Express) • MongoDB • MySQL
+```
 
-Currently Learning
+**Tools & Technologies**
+```javascript
+RESTful APIs • Firebase • Redux
+```
 
+---
+
+### 🌱 Currently Learning
+```javascript
 Flutter for cross-platform mobile app development
+```
 
-Collaboration
+---
+
+### 👯 Collaboration
 I'm looking to collaborate on:
+* Full-stack MERN projects
+* Exciting web applications
 
-Full-stack MERN projects
-Exciting web applications
+---
 
-Ask Me About
+### 💬 Ask Me About
+```javascript
+React.js • Node.js • Modern web development
+```
 
-React.js
-Node.js
-Modern web development
+---
 
-How to Reach Me
+### 📫 Let's Connect
 
-Email: adeyemitaiwo24434@gmail.com
-LinkedIn: [Adeyemi Taiwo](https://www.linkedin.com/in/adeyemi-taiwo-5892082b0/)
+<div align="left">
+  <a href="mailto:adeyemitaiwo24434@gmail.com">
+    ╰── 📧 adeyemitaiwo24434@gmail.com
+  </a>
+</div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/adeyemi-taiwo-5892082b0/">
+    ╰── 🔗 linkedin.com/in/adeyemi-taiwo
+  </a>
+</div>
 
-Fun Fact
-I enjoy coding, exploring new technologies, and working on innovative side projects.
+---
+
+### ⚡ Fun Fact
+> I enjoy coding, exploring new technologies, and working on innovative side projects.
