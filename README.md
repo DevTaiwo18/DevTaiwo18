@@ -8,17 +8,17 @@ I'm **Adeyemi Taiwo**, a passionate developer focused on building scalable web a
 
 **Frontend Development**
 ```javascript
-JavaScript • TypeScript • React.js • Next.js • TailwindCSS • Bootstrap • SASS • HTML/CSS
+JavaScript • TypeScript • React.js • Next.js • TailwindCSS • Bootstrap • SASS • HTML/CSS • Context API • Vite • Jest & React Testing Library
 ```
 
 **Backend Development**
 ```javascript
-Node.js (Express) • MongoDB • MySQL
+Node.js (Express) • MongoDB • MySQL • JWT • Socket.io
 ```
 
 **Tools & Technologies**
 ```javascript
-RESTful APIs • Firebase • Redux
+RESTful APIs • Firebase • Redux • Real-time Communication • Authentication • Testing
 ```
 
 ---
@@ -39,7 +39,7 @@ I'm looking to collaborate on:
 
 ### 💬 Ask Me About
 ```javascript
-React.js • Node.js • Modern web development
+React.js • Node.js • Modern web development • State Management • Authentication • Testing • Real-time Applications
 ```
 
 ---
