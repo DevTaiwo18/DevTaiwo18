@@ -56,9 +56,9 @@ React.js • Node.js • Modern web development
     ╰── 🔗 linkedin.com/in/adeyemi-taiwo
   </a>
 </div>
-div align="left">
-  <a href="[https://www.linkedin.com/in/adeyemi-taiwo-5892082b0/](https://x.com/adeyemiTai4080)">
-    ╰── 🔗 X.com/in/adeyemi-taiwo
+<div align="left">
+  <a href="https://x.com/adeyemiTai4080">
+    ╰── 🔗 X.com/adeyemiTai4080
   </a>
 </div>
 
