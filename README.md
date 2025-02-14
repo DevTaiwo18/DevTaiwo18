@@ -13,7 +13,7 @@ JavaScript • TypeScript • React.js • Next.js • TailwindCSS • Shadcn/ui
 
 **Backend Development**
 ```javascript
-Node.js (Express) • MongoDB • MySQL • JWT • Socket.io
+Node.js (Express) • MongoDB • JWT • Socket.io
 ```
 
 **Tools & Technologies**
