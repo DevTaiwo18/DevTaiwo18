@@ -61,6 +61,12 @@ React.js • Node.js • Modern web development • State Management • Authent
     ╰── 🔗 X.com/adeyemiTai4080
   </a>
 </div>
+<div align="left">
+  <a href="https://www.instagram.com/devtaiwo18/" target="_blank">
+    ╰── 🔗 instagram.com/devtaiwo18
+  </a>
+</div>
+
 
 ---
 
