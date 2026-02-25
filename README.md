@@ -27,7 +27,7 @@ Flutter • Cross-platform App Development • REST API Integration • State Ma
 
 ### Backend Development
 ```javascript
-Node.js (Express) • MongoDB • RESTful APIs • JWT Authentication • Socket.io • Real-time Systems • API Design
+Node.js (Express) • PostgreSQL • MongoDB • RESTful APIs • JWT Authentication • Socket.io • Real-time Systems • API Design
 ```
 
 ### AI & Data (Growing Focus)
@@ -62,7 +62,7 @@ AI-driven analytics platforms • Real-time financial systems • Scalable cross
 
 ## 👯 Open to Collaborate On
 
-- Scalable full-stack MERN applications  
+- Scalable full-stack applications  
 - Data-driven platforms  
 - Fintech or AI-based products  
 - Real-time web systems  
@@ -72,7 +72,7 @@ AI-driven analytics platforms • Real-time financial systems • Scalable cross
 
 ## 💬 Ask Me About
 ```javascript
-System Architecture • React.js • Node.js • Backend Design • Authentication • State Management • Real-time Applications • Building Scalable Platforms
+System Architecture • React.js • Node.js • PostgreSQL • API Design • Authentication • Real-time Applications • Building Scalable Platforms
 ```
 
 ---
