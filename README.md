@@ -2,7 +2,7 @@
 
 I'm **Adeyemi Taiwo**, a Full Stack Engineer focused on building scalable, data-driven web applications and intelligent systems.
 
-I enjoy designing backend architectures, building real-time platforms, and developing products that solve real-world problems with clean and maintainable code.
+I enjoy designing backend architectures, building real-time platforms, and developing products that solve real-world problems with clean and maintainable code across web and mobile environments.
 
 ---
 
@@ -15,9 +15,14 @@ Contributor to *IllumiTrust*, a digital address verification solution built for 
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend Development (Web)
 ```javascript
 JavaScript • TypeScript • React.js • Next.js • TailwindCSS • Shadcn/ui • Bootstrap • SASS • HTML/CSS • Context API • Redux • Vite • Jest & React Testing Library
+```
+
+### Mobile Development
+```dart
+Flutter • Cross-platform App Development • REST API Integration • State Management
 ```
 
 ### Backend Development
@@ -26,7 +31,7 @@ Node.js (Express) • MongoDB • RESTful APIs • JWT Authentication • Socket
 ```
 
 ### AI & Data (Growing Focus)
-```javascript
+```python
 Python • Machine Learning Fundamentals • Data Modeling • Predictive Systems • Data-Driven Application Design
 ```
 
@@ -44,12 +49,13 @@ Git • Firebase • Postman • Authentication Systems • Testing • Deployme
 - Fintech systems  
 - AI-powered analytics platforms  
 - Intelligent decision systems  
+- Cross-platform mobile systems  
 
 ---
 
 ## 🌱 Currently Building & Exploring
 ```javascript
-AI-driven analytics platforms • Real-time financial systems • Cross-platform mobile apps with Flutter
+AI-driven analytics platforms • Real-time financial systems • Scalable cross-platform mobile apps with Flutter
 ```
 
 ---
@@ -60,6 +66,7 @@ AI-driven analytics platforms • Real-time financial systems • Cross-platform
 - Data-driven platforms  
 - Fintech or AI-based products  
 - Real-time web systems  
+- Cross-platform mobile applications  
 
 ---
 
@@ -100,4 +107,4 @@ System Architecture • React.js • Node.js • Backend Design • Authenticati
 
 ## ⚡ Fun Fact
 
-> I’m passionate about engineering intelligent products that combine clean architecture, performance, and real-world impact.
+> I’m passionate about engineering intelligent products that combine clean architecture, performance, and real-world impact across web and mobile platforms.
