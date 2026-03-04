@@ -8,7 +8,7 @@ I enjoy designing backend architectures, building real-time platforms, and devel
 
 ## 🏆 Achievement
 
-🥈 **2nd Place — Wema Bank Hackaholics 6.0**  
+🥈 **2nd Place — Wema Bank Hackaholics 6.0**
 Contributor to *IllumiTrust*, a digital address verification solution built for enterprise-level financial systems.
 
 ---
@@ -16,26 +16,25 @@ Contributor to *IllumiTrust*, a digital address verification solution built for 
 ## 🛠️ Tech Stack
 
 ### Frontend Development (Web)
+
 ```javascript
 JavaScript • TypeScript • React.js • Next.js • TailwindCSS • Shadcn/ui • Bootstrap • SASS • HTML/CSS • Context API • Redux • Vite • Jest & React Testing Library
 ```
 
-### Mobile Development
-```dart
-Flutter • Cross-platform App Development • REST API Integration • State Management
-```
-
 ### Backend Development
+
 ```javascript
 Node.js (Express) • PostgreSQL • MongoDB • RESTful APIs • JWT Authentication • Socket.io • Real-time Systems • API Design
 ```
 
 ### AI & Data (Growing Focus)
+
 ```python
 Python • Machine Learning Fundamentals • Data Modeling • Predictive Systems • Data-Driven Application Design
 ```
 
 ### Tools & Technologies
+
 ```javascript
 Git • Firebase • Postman • Authentication Systems • Testing • Deployment • API Integration
 ```
@@ -44,33 +43,33 @@ Git • Firebase • Postman • Authentication Systems • Testing • Deployme
 
 ## 🚀 Notable Interests
 
-- Scalable backend architecture  
-- Real-time applications  
-- Fintech systems  
-- AI-powered analytics platforms  
-- Intelligent decision systems  
-- Cross-platform mobile systems  
+* Scalable backend architecture
+* Real-time applications
+* Fintech systems
+* AI-powered analytics platforms
+* Intelligent decision systems
 
 ---
 
-## 🌱 Currently Building & Exploring
+## 🌱 Currently Learning & Exploring
+
 ```javascript
-AI-driven analytics platforms • Real-time financial systems • Scalable cross-platform mobile apps with Flutter
+Flutter • Cross-platform App Development • REST API Integration • State Management
 ```
 
 ---
 
 ## 👯 Open to Collaborate On
 
-- Scalable full-stack applications  
-- Data-driven platforms  
-- Fintech or AI-based products  
-- Real-time web systems  
-- Cross-platform mobile applications  
+* Scalable full-stack applications
+* Data-driven platforms
+* Fintech or AI-based products
+* Real-time web systems
 
 ---
 
 ## 💬 Ask Me About
+
 ```javascript
 System Architecture • React.js • Node.js • PostgreSQL • API Design • Authentication • Real-time Applications • Building Scalable Platforms
 ```
