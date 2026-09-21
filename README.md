@@ -126,11 +126,6 @@ I work across the full stack — React and Next.js on the frontend, Node.js and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevTaiwo18&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTaiwo18&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=DevTaiwo18&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
